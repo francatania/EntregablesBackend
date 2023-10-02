@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"title": "Compu",
+		"description": "Nuevita",
+		"price": 2500,
+		"thumbnail": "ruta/2",
+		"code": "has87",
+		"stock": 25
+	},
+	{
+		"id": 2,
+		"title": "Play4",
+		"description": "Usada",
+		"price": 600,
+		"thumbnail": "ruta/3",
+		"code": "has7",
+		"stock": 20
+	},
+	{
+		"id": 3,
+		"title": "Play3",
+		"description": "Usada",
+		"price": 200,
+		"thumbnail": "ruta/4",
+		"code": "has9",
+		"stock": 20
+	},
+	{
+		"id": 4,
+		"title": "Play5",
+		"description": "Nueva",
+		"price": 1800,
+		"thumbnail": "ruta/4",
+		"code": "has219",
+		"stock": 20
+	},
+	{
+		"id": 5,
+		"title": "Notebook",
+		"description": "i5 13va",
+		"price": 1200,
+		"thumbnail": "ruta/7",
+		"code": "has9222",
+		"stock": 20
+	},
+	{
+		"id": 6,
+		"title": "Notebook",
+		"description": "i3 12va",
+		"price": 900,
+		"thumbnail": "ruta/7",
+		"code": "has9asd2",
+		"stock": 20
+	},
+	{
+		"id": 7,
+		"title": "Joystick",
+		"description": "Xbox series",
+		"price": 500,
+		"thumbnail": "ruta/7",
+		"code": "has11",
+		"stock": 19
+	},
+	{
+		"id": 8,
+		"title": "Joystick",
+		"description": "PS5 DUALSENSE",
+		"price": 700,
+		"thumbnail": "ruta/7",
+		"code": "has1231222",
+		"stock": 9
+	},
+	{
+		"id": 9,
+		"title": "Joystick",
+		"description": "PC REDRAGON",
+		"price": 700,
+		"thumbnail": "ruta/7",
+		"code": "h22",
+		"stock": 9
+	},
+	{
+		"id": 10,
+		"title": "GPU",
+		"description": "RX 6700",
+		"price": 300,
+		"thumbnail": "ruta/7",
+		"code": "hD425",
+		"stock": 9
+	}
+]
